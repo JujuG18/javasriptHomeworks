@@ -8,3 +8,4 @@ Given the HTML and CSS code for a form with both shipping and billing informatio
 
 Javascript Homework 2
 
+Given the HTML and CSS code, I had to add the Javascript code which changes the image inside the box when the user hover over one of the three images to display it in the box. 
